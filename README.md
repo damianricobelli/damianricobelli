@@ -11,7 +11,7 @@ Creator of the accessible components library for GuruHotel, based on [Stitches](
 ## What i'm up to
 
 - 🔭 I’m currently working @ [GuruHotel](https://www.guruhotel.com/).
-- 🌱 I’m currently learning @ [Remix Run](https://remix.run/).
+- 🌱 I’m currently learning [Remix Run](https://remix.run/).
 - 💬 Ask me about React, NextJS, TypeScript and JavaScript
 - 📫 How to reach me: [Email](mailto:dricobelli@gmail.com), [Twitter](https://twitter.com/damianricobelli) and [Linkedin](https://www.linkedin.com/in/damianricobelli/) 
 
