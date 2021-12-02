@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, It's Damián Ricobelli
 
-<!--
-**damianricobelli/damianricobelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend developer. I like to use [React](https://reactjs.org/) and [NextJS](https://nextjs.org/) for web projects, and [React Native](https://reactnative.dev/) for mobile projects.
 
-Here are some ideas to get you started:
+I love web accessibility, that's why I love [Stitches](https://stitches.dev/), [Radix UI](https://www.radix-ui.com/) and [Radix Colors].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love web accessibility.
+
+Creator of the accessible components library for GuruHotel, based on [Stitches](https://stitches.dev/), [Radix UI](https://www.radix-ui.com/) and [Radix Colors](https://www.radix-ui.com/colors).
+
+## What i'm up to
+
+- 🔭 I’m currently working @ [GuruHotel](https://www.guruhotel.com/).
+- 🌱 I’m currently learning @ [Remix Run](https://remix.run/).
+- 💬 Ask me about React, NextJS, TypeScript and JavaScript
+- 📫 How to reach me: [Email](mailto:dricobelli@gmail.com), [Twitter](https://twitter.com/damianricobelli) and [Linkedin](https://www.linkedin.com/in/damianricobelli/) 
+
+## Languages
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
