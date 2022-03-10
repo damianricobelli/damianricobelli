@@ -4,7 +4,7 @@ I'm a Frontend developer. I like to use [React](https://reactjs.org/) and [NextJ
 
 I love web accessibility.
 
-Creator of the accessible components library for GuruHotel, based on [Stitches](https://stitches.dev/), [Radix UI](https://www.radix-ui.com/) and [Radix Colors](https://www.radix-ui.com/colors).
+Creator of the accessible components library for GuruHotel, based on [Stitches](https://stitches.dev/), and [Radix UI](https://www.radix-ui.com/).
 
 ## What i'm up to
 
