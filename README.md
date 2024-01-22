@@ -4,11 +4,9 @@ I'm a Frontend developer. I like to use [React](https://reactjs.org/) and [NextJ
 
 I love web accessibility.
 
-Creator of the accessible components library for GuruHotel, based on [Stitches](https://stitches.dev/), [Radix UI](https://www.radix-ui.com/) and [Radix Colors](https://www.radix-ui.com/colors).
-
 ## What i'm up to
 
-- 🔭 I’m currently working @ [GuruHotel](https://www.guruhotel.com/).
+- 🔭 I’m currently working @ [Roofer](https://www.roofer.com/).
 - 🌱 I’m currently learning [Remix Run](https://remix.run/).
 - 💬 Ask me about React, NextJS, TypeScript and JavaScript
 - 📫 How to reach me: [Email](mailto:dricobelli@gmail.com), [Twitter](https://twitter.com/damianricobelli) and [Linkedin](https://www.linkedin.com/in/damianricobelli/) 
