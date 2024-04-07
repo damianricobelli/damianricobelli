@@ -6,7 +6,6 @@ I love web accessibility.
 
 ## What i'm up to
 
-- 🔭 I’m currently working @ [Roofer](https://www.roofer.com/).
 - 🌱 Always learning
 - 💬 Ask me about React, NextJS, TypeScript and JavaScript
 - 📫 How to reach me: [Email](mailto:dricobelli@gmail.com), [Twitter](https://twitter.com/damianricobelli) and [Linkedin](https://www.linkedin.com/in/damianricobelli/) 
