@@ -1,13 +1,13 @@
 ### Hi there 👋, It's Damián Ricobelli
 
-I'm a Frontend developer. I like to use [React](https://reactjs.org/) and [NextJS](https://nextjs.org/) for web projects, and [React Native](https://reactnative.dev/) for mobile projects.
+I'm a Frontend developer. I like to use [React](https://reactjs.org/), [NextJS](https://nextjs.org/) and [Remix](https://remix.run/) for web projects, and [React Native](https://reactnative.dev/) for mobile projects.
 
 I love web accessibility.
 
 ## What i'm up to
 
 - 🌱 Always learning
-- 💬 Ask me about React, NextJS, TypeScript and JavaScript
+- 💬 Ask me about React, NextJS, Remix, TypeScript and JavaScript
 - 📫 How to reach me: [Email](mailto:dricobelli@gmail.com), [Twitter](https://twitter.com/damianricobelli) and [Linkedin](https://www.linkedin.com/in/damianricobelli/) 
 
 ## Languages
