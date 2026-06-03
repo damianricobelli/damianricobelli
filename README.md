@@ -1,18 +1,43 @@
-### Hi there 👋, It's Damián Ricobelli
+# Hi, I'm Damián Ricobelli 👋
 
-I'm a Frontend developer. I like to use [React](https://reactjs.org/), [NextJS](https://nextjs.org/) and [Remix](https://remix.run/) for web projects, and [React Native](https://reactnative.dev/) for mobile projects.
+Frontend Engineer focused on building modern web applications, design systems, and developer tooling.
 
-I love web accessibility.
+I'm passionate about creating great developer experiences with React, TypeScript, and the TanStack ecosystem. Most of my work today revolves around **TanStack Start**, **TanStack Router**, **shadcn/ui**, accessibility, and scalable frontend architectures.
 
-## What i'm up to
+## Open Source
 
-- 🌱 Always learning
-- 💬 Ask me about React, NextJS, Remix, TypeScript and JavaScript
-- 📫 How to reach me: [Email](mailto:dricobelli@gmail.com), [Twitter](https://twitter.com/damianricobelli) and [Linkedin](https://www.linkedin.com/in/damianricobelli/) 
+I'm the creator and maintainer of:
 
-## Languages
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+- 🚀 Stepperize — Multi-step flows and wizard management for React
+- 🎨 Radixcn — Radix Colors integration for shadcn/ui
+- 🧩 Various open-source tools and libraries around shadcn/ui, React, and developer experience
+
+## Current Focus
+
+- ⚡ Building applications with TanStack Start & TanStack Router
+- 🎨 Design systems and component libraries
+- 🏗️ Large-scale frontend architecture
+- ♿ Web accessibility
+- 🧪 Open source and developer tooling
+
+## Tech Stack
+
+- React
+- TanStack Start
+- TanStack Router
+- TypeScript
+- Node.js
+- shadcn/ui
+- Radix/Base UI
+- Next.js
+- React Native
+
+## Let's Connect
+
+- 📧 Email: dricobelli@gmail.com
+- 🐦 X/Twitter: https://twitter.com/damianricobelli
+- 💼 LinkedIn: https://www.linkedin.com/in/damianricobelli/
+
+---
+
+> Building tools that make developers faster, happier, and more productive.
